@@ -1,0 +1,18 @@
+footer {
+  margin-top: 100px;
+  border-top: 1px solid #33A8DB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 170px;
+  background: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+}
+
+footer img {
+  width: 310px;
+}
+
+footer p {
+  margin-top: 15px;
+}
