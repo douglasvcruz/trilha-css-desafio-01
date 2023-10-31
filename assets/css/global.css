@@ -1,0 +1,14 @@
+body {
+  background-color: #000000;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url(/assets/fonts/Raleway-Black.ttf);
+}
+
+* {
+  font-family: "Raleway";
+  color: white;
+  text-align: center;
+}
