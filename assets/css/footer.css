@@ -16,3 +16,8 @@ footer img {
 footer p {
   margin-top: 15px;
 }
+
+footer a {
+  text-decoration: none;
+  color: #33A8DB;
+} 
